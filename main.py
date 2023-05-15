@@ -39,7 +39,7 @@ spawn_rate  = 60
 save = Save_File.Save
 
 player          = Character.Dino()
-cloud1          = Character.Cloud(pygame.image.load("Assets/Other/Cloud3.png"))
+cloud1          = Character.Cloud(pygame.image.load("Assets/Other/Cloud.png"))
 cloud2          = Character.Cloud(pygame.image.load("Assets/Other/Cloud2.png"))
 pause_img       = pygame.image.load("Assets/Button/TopFrame_PauseButton.png")
 pause_button    = Button.Button(screen,1244,8,pause_img)
