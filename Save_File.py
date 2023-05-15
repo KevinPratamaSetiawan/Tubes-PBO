@@ -1,0 +1,1 @@
+Save = {'Play_Time': 213, 'Top_Score': 6409, 'Most_Kill': 5, 'Coins': 1.0, 'Price': 39.0, 'Refund': 83.0, 'Add_Health': 4, 'Add_Protection': 0, 'Add_Damage': 0, 'Add_PSpeed': 0, 'Add_Quantity': 0, 'Add_Cooldown': 0, 'Add_GameSpeed': 0, 'Add_Exp': 0, 'Add_Coin': 0}
